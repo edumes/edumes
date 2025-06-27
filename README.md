@@ -20,11 +20,12 @@
 
 ## 💼 Experiências:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
+[<img align="left" height="94px" width="94px" alt="NEC" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
 
-**Full-Stack (Pleno)** 
+**Full-Stack** 
 [**Nec Brasil**](http://necbrasil.com.br/) • Full-time \
-Languages & Technologies: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`\
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`\
+Projetos: [SGT](http://www.cruzdemaltatransportes.com.br), [FastFlow](https://fastflow.com.br)
 <br>
 ---
 

@@ -1,7 +1,5 @@
 # Olá, Mundo! 👋
 
----
-
 ## 🛠️ Tecnologias e Ferramentas
 <div align="center">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
@@ -18,17 +16,11 @@
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
 </div>
 
----
-
 ## 🎧 O que estou ouvindo
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=q2744thmbvh18vjdqaom84gvz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/q2744thmbvh18vjdqaom84gvz)
-
----
 
 ## 📬 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/edumesz/)  
 - [Instagram](https://instagram.com/edumes.py)  
 - dev.eduardosantarosa@gmail.com
-
----

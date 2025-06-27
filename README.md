@@ -28,11 +28,10 @@
 `JavaScript` · `TypeScript` · `Node.js` · `React` · `PHP` · `Laravel` · `PostgreSQL`
 
 **Projetos:**  
-- [SGT](http://www.cruzdemaltatransportes.com.br):
-- [FastFlow](https://fastflow.com.br):
+- [SGT](http://www.cruzdemaltatransportes.com.br)
+- [FastFlow](https://fastflow.com.br)
 - [MX Drive](http://www.mxdrive.com.br)
 - [Nova Limp](https://www.novalimp.com.br)
-
 <br clear="left" />
 
 ## 🎧 O que estou ouvindo

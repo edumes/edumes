@@ -16,6 +16,14 @@
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
 </div>
 
+**Experiências:** 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
+
+**Full-Stack** 
+[**Nec Brasil**](http://necbrasil.com.br/) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`\
+<br/>
+
 ## 🎧 O que estou ouvindo
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=q2744thmbvh18vjdqaom84gvz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/q2744thmbvh18vjdqaom84gvz)
 

@@ -24,7 +24,7 @@
 
 **Full-Stack** 
 [**Nec Brasil**](http://necbrasil.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`\
 
 ---
 

@@ -17,13 +17,15 @@
 </div>
 
 ---
+
 **Experiências:** 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
 
 **Full-Stack** 
 [**Nec Brasil**](http://necbrasil.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`\
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`
+
 ---
 
 ## 🎧 O que estou ouvindo

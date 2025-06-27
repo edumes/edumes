@@ -18,13 +18,13 @@
 
 ---
 
-**Trabalhos Recentes:** 
+## 💼 Trabalhos Recentes:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
 
 **Full-Stack (Pleno)** 
 [**Nec Brasil**](http://necbrasil.com.br/) • Full-time \
-Languages & Technologies: `JavaScript`, `TypeScript`, `Node`, `Next.js`, `PHP`, `SASS`, `Postgres`\
+Languages & Technologies: `JavaScript`, `TypeScript`, `Node`, `React`, `PHP`, `Laravel`, `Postgres`\
 
 ---
 

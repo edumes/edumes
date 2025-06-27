@@ -1,20 +1,5 @@
 # Olá, Mundo! 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edumes&color=blue&label=Profile%20views" alt="edumes Profile Views" />
-  <img src="https://img.shields.io/github/followers/edumes?label=Follow&style=social" alt="Follow edumes" />
-</div>
-
----
-
-## 📊 Estatísticas
-<div align="center">
-  <a href="https://github.com/edumes">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edumes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumes&layout=compact&langs_count=6&theme=dark" />
-  </a>
-</div>
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -44,6 +29,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/edumesz/)  
 - [Instagram](https://instagram.com/edumes.py)  
-- 📧 dev.eduardosantarosa@gmail.com
+- dev.eduardosantarosa@gmail.com
 
 ---

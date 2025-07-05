@@ -25,10 +25,7 @@
 
 ### **Full Stack Developer**  
 **[NEC Brasil](http://necbrasil.com.br/)** • Tempo integral  
-📍 Americana, SP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📅 *Agosto 2022 – Presente*
-
-**Tecnologias:**  
-  `PostgreSQL` · `MongoDB`
+📍 Americana, SP • 📅 *Agosto 2022 – Presente*
 
 **Projetos em que atuei:**  
 - [FastFlow](https://fastflow.com.br)

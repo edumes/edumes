@@ -20,12 +20,12 @@
 
 [<img align="left" height="80" width="80" alt="NEC Brasil" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
 
-### **Full-Stack Developer**  
+### **Full Stack Developer**  
 **[NEC Brasil](http://necbrasil.com.br/)** • Tempo integral  
 📍 Americana, SP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📅 *Agosto 2022 – Presente*
 
 **Tecnologias:**  
-`JavaScript` · `TypeScript` · `Node.js` · `React` · `PHP` · `Laravel` · `PostgreSQL`
+`JavaScript` · `TypeScript` · `Node.js` · `React` · `React Native` · `PHP` · `Laravel` · `Docker` · `PostgreSQL` · `MongoDB`
 
 **Projetos em que atuei:**  
 - [FastFlow](https://fastflow.com.br)

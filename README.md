@@ -10,10 +10,13 @@
   <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
   <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" height="40" />
+  <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
+  <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" />
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </div>
 
 ## 💼 Experiências
@@ -25,7 +28,7 @@
 📍 Americana, SP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📅 *Agosto 2022 – Presente*
 
 **Tecnologias:**  
-`JavaScript` · `TypeScript` · `Node.js` · `React` · `React Native` · `PHP` · `Laravel` · `Docker` · `PostgreSQL` · `MongoDB`
+  `PostgreSQL` · `MongoDB`
 
 **Projetos em que atuei:**  
 - [FastFlow](https://fastflow.com.br)

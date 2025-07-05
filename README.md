@@ -27,11 +27,15 @@
 **Tecnologias:**  
 `JavaScript` · `TypeScript` · `Node.js` · `React` · `PHP` · `Laravel` · `PostgreSQL`
 
-**Projetos:**  
-- [SGT](http://www.cruzdemaltatransportes.com.br)
+**Projetos em que atuei:**  
 - [FastFlow](https://fastflow.com.br)
+- [Brasmeg](https://brasmeg.com.br)
 - [MX Drive](http://www.mxdrive.com.br)
 - [Nova Limp](https://www.novalimp.com.br)
+- [SGT](http://www.cruzdemaltatransportes.com.br)
+- [Betalimp](https://betaservicos.com.br)
+- [TS Pneus](https://redetspneus.com.br)
+- [Insertec](https://www.insertec.biz)
 
 ## 🎧 O que estou ouvindo
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=q2744thmbvh18vjdqaom84gvz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/q2744thmbvh18vjdqaom84gvz)

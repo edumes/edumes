@@ -39,5 +39,5 @@
 ## 📬 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/edumesz/)  
-- [Instagram](https://instagram.com/edumes.py)  
+- [Instagram](https://instagram.com/edumesz)  
 - dev.eduardosantarosa@gmail.com

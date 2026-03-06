@@ -19,6 +19,10 @@
   <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Software+Developer;FullStack+Engineer;Node.js+%2B+TypeScript+Specialist;API+Integration+Engineer;Legacy+Systems+Modernization"/>
+</div>
+
 ## 💼 Experiências
 
 [<img align="left" height="80" width="80" alt="NEC Brasil" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)

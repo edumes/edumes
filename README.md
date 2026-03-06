@@ -58,13 +58,6 @@
 
 ---
 
-# 🐍 Snake Contributions
-<p align="center">
-<img src="https://raw.githubusercontent.com/edumes/edumes/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 👁 Visitors
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=edumes&style=for-the-badge&color=blue"/>

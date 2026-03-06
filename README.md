@@ -76,6 +76,8 @@
 ### 🚀 "Any language, any problem — I find a way."
 </div>
 
+---
+
 ## 📬 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/edumesz/)  

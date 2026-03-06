@@ -1,6 +1,6 @@
 # Olá, Mundo! 👋
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 <div align="center">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
   <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />

@@ -27,18 +27,50 @@
 **[NEC Brasil](http://necbrasil.com.br/)** • Tempo integral  
 📍 Americana, SP • 📅 *Agosto 2022 – Presente*
 
-**Projetos em que atuei:**  
-- [FastFlow](https://fastflow.com.br)
-- [Brasmeg](https://brasmeg.com.br)
-- [MX Drive](http://www.mxdrive.com.br)
-- [Nova Limp](https://www.novalimp.com.br)
-- [SGT](http://www.cruzdemaltatransportes.com.br)
-- [Betalimp](https://betaservicos.com.br)
-- [TS Pneus](https://redetspneus.com.br)
-- [Insertec](https://www.insertec.biz)
+🚀 Especialista em
 
-## 🎧 O que estou ouvindo
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=q2744thmbvh18vjdqaom84gvz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/q2744thmbvh18vjdqaom84gvz)
+- Node.js
+- TypeScript
+- APIs REST
+- Integrações de sistemas
+
+🛠 Experiência com
+
+- Sistemas corporativos
+- Modernização de sistemas legados
+- Sistemas distribuídos
+
+# 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Delciojr&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delciojr&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Snake Contributions
+<p align="center">
+<img src="https://raw.githubusercontent.com/Delciojr/Delciojr/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👁 Visitors
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Delciojr&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+<div align="center">
+### 🚀 "Any language, any problem — I find a way."
+</div>
 
 ## 📬 Contato
 

@@ -46,34 +46,34 @@
 
 # 🔥 GitHub Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Delciojr&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edumes&theme=tokyonight"/>
 </p>
 
 ---
 
 # 📈 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delciojr&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edumes&theme=tokyo-night"/>
 </p>
 
 ---
 
 # 🐍 Snake Contributions
 <p align="center">
-<img src="https://raw.githubusercontent.com/Delciojr/Delciojr/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/edumes/edumes/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 # 👁 Visitors
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Delciojr&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=edumes&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 <div align="center">
-## 🚀 "Any language, any problem — I find a way."
+🚀 "Any language, any problem — I find a way."
 </div>
 
 ---

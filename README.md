@@ -1,25 +1,40 @@
+<div align="center">
+
 # Eduardo Santarosa
 
-**Full Stack Developer | Backend Node.js | TypeScript | React**
+### Full Stack Developer · Backend Node.js · TypeScript · React
 
-Desenvolvedor Full Stack com experiência profissional desde 2022 no desenvolvimento, manutenção e evolução de sistemas web. Atuo principalmente com **Node.js**, **TypeScript**, **React**, **Next.js** e **PHP**, com foco em APIs, integrações, automações, relatórios e sustentação de aplicações em produção.
+Desenvolvedor Full Stack com experiência profissional desde 2022 em sistemas web, APIs, integrações, automações e sustentação de aplicações em produção.
 
-Atualmente trabalho em uma software house, participando de projetos para clientes reais, integração com serviços externos, manutenção de sistemas legados e construção de soluções web orientadas a negócio.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edumesz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edumesz/)
+[![GitHub](https://img.shields.io/badge/GitHub-edumes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edumes)
+[![Email](https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.eduardosantarosa@gmail.com)
+
+</div>
 
 ---
 
-## Foco técnico
+## Sobre mim
 
-- Desenvolvimento de APIs REST com Node.js, TypeScript, Express, Fastify e NestJS
-- Integrações com APIs externas, ERPs, serviços de assinatura, automação e parceiros
-- Sistemas web com React, Next.js, Vite, TailwindCSS e bibliotecas de UI modernas
-- Autenticação, permissões, geração de relatórios, uploads, filas e processamento assíncrono
-- Manutenção, correção de bugs e evolução de sistemas em produção
-- Automação de processos com Node.js, Python, PDF, Excel e scripts internos
+Sou desenvolvedor Full Stack com foco em **Node.js**, **TypeScript**, **React**, **Next.js** e **PHP**. Trabalho em software house, atuando em projetos para clientes reais, integrações com serviços externos, manutenção de sistemas legados e evolução de aplicações em produção.
+
+Tenho interesse especial em **arquitetura backend**, **APIs REST**, **sistemas modulares**, **automação de processos** e construção de soluções web que resolvem problemas operacionais de negócio.
+
+```ts
+const eduardo = {
+  role: "Full Stack Developer",
+  focus: ["Backend Node.js", "TypeScript", "React", "APIs", "Integrações"],
+  experienceSince: 2022,
+  currentlyWorkingWith: ["Node.js", "TypeScript", "React", "Next.js", "PHP"],
+  interests: ["Arquitetura", "SaaS", "Monorepos", "Automação", "Sistemas em produção"],
+};
+```
 
 ---
 
 ## Stack principal
+
+<div align="center">
 
 ### Backend
 
@@ -37,70 +52,135 @@ Atualmente trabalho em uma software house, participando de projetos para cliente
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Banco, infraestrutura e ferramentas
+### Banco, ORM, infra e ferramentas
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+
+</div>
+
+---
+
+## O que eu costumo construir
+
+<table>
+  <tr>
+    <td><strong>APIs e backends</strong></td>
+    <td>APIs REST, autenticação, permissões, regras de negócio, integrações e documentação Swagger/OpenAPI.</td>
+  </tr>
+  <tr>
+    <td><strong>Sistemas web</strong></td>
+    <td>Aplicações administrativas, dashboards, CRUDs, formulários, telas responsivas e fluxos internos.</td>
+  </tr>
+  <tr>
+    <td><strong>Integrações</strong></td>
+    <td>Conexão com APIs externas, ERPs, serviços de assinatura, automações e parceiros.</td>
+  </tr>
+  <tr>
+    <td><strong>Automações</strong></td>
+    <td>Geração de relatórios em PDF/Excel, scripts internos, processamento assíncrono e rotinas operacionais.</td>
+  </tr>
+  <tr>
+    <td><strong>Sustentação</strong></td>
+    <td>Correção de bugs, manutenção de sistemas em produção e evolução gradual de aplicações legadas.</td>
+  </tr>
+</table>
 
 ---
 
 ## Projeto principal
 
-### Plataforma Full Stack Modular — projeto privado
+<table>
+  <tr>
+    <td width="35%">
+      <h3>Plataforma Full Stack Modular</h3>
+      <p><strong>Projeto privado</strong></p>
+      <p>Monorepo autoral para acelerar o desenvolvimento de sistemas administrativos e aplicações SaaS.</p>
+    </td>
+    <td width="65%">
+      <p>
+        Projeto usado como laboratório técnico de arquitetura full stack, com backend reutilizável, frontend SPA, pacote compartilhado, autenticação, permissões, CRUD genérico, filas, WebSocket, uploads, logs e documentação técnica.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-Projeto autoral em formato de monorepo para acelerar o desenvolvimento de sistemas administrativos e aplicações SaaS. O código-fonte é privado, mas o projeto representa meu principal laboratório técnico de arquitetura full stack.
+### Principais recursos
 
-**Principais recursos:**
-
+- Monorepo com backend, frontend e pacote compartilhado
 - Backend com Node.js, TypeScript, Fastify e TypeORM
 - Frontend com React, Vite, TailwindCSS e componentes reutilizáveis
-- Pacote compartilhado para tipos, contratos, metadados e i18n
 - Autenticação JWT e controle de permissões
 - CRUD genérico orientado por metadados
-- PostgreSQL, Redis, filas com Bull e processamento assíncrono
-- Swagger/OpenAPI para documentação de API
+- PostgreSQL, Redis, Bull e processamento assíncrono
+- Swagger/OpenAPI para documentação da API
 - WebSocket para eventos em tempo real
 - Upload de arquivos, logs estruturados e geração de relatórios
 - Docker Compose para ambiente local
 - Testes, typecheck, build de pacotes e documentação técnica
 
-**Stack:** Node.js, TypeScript, Fastify, React, Vite, PostgreSQL, Redis, TypeORM, TailwindCSS, Docker, Jest.
+> O código-fonte desse projeto é privado. A ideia é preservar propriedade intelectual enquanto uso o projeto como referência técnica em entrevistas e portfólio.
 
 ---
 
 ## Projetos selecionados
 
-### [SalarioContado](https://github.com/edumes/salariocontado)
-
-Aplicação web para cálculo de ganhos em tempo real, com interface responsiva, persistência local e foco em experiência de uso.
-
-**Stack:** Next.js, TypeScript, TailwindCSS, Radix UI.
-
-### [Segmentor](https://github.com/edumes/Segmentor)
-
-Aplicação desktop para segmentação de vídeos, explorando interface gráfica, manipulação de mídia e compatibilidade multiplataforma.
-
-**Stack:** Python, PyQt6, FFmpeg, OpenCV.
-
-### [Sistema Pizzaria](https://github.com/edumes/Sistema-Pizzaria)
-
-Sistema full stack para gerenciamento de pizzaria, com backend, frontend e banco relacional.
-
-**Stack:** Node.js, React, TypeScript, PostgreSQL, Prisma.
+<table>
+  <tr>
+    <td width="33%">
+      <h3><a href="https://github.com/edumes/salariocontado">SalarioContado</a></h3>
+      <p>Aplicação web para cálculo de ganhos em tempo real, com persistência local e interface responsiva.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3><a href="https://github.com/edumes/Segmentor">Segmentor</a></h3>
+      <p>Aplicação desktop para segmentação de vídeos, manipulação de mídia e compatibilidade multiplataforma.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3><a href="https://github.com/edumes/Sistema-Pizzaria">Sistema Pizzaria</a></h3>
+      <p>Sistema full stack para gerenciamento de pizzaria, com backend, frontend e banco relacional.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Experiência
+## Experiência profissional
 
-**Full Stack Developer — NEC Brasil**  
-Americana, SP | Agosto/2022 - Atual
+### Full Stack Developer · NEC Brasil
+
+**Americana/SP · Agosto/2022 - Atual**
 
 - Desenvolvimento e manutenção de sistemas web para clientes
 - Implementação de funcionalidades em Node.js, TypeScript, React, Next.js, PHP e React Native
@@ -111,24 +191,34 @@ Americana, SP | Agosto/2022 - Atual
 
 ---
 
-## Atualmente estudando e evoluindo em
+## Em evolução contínua
 
-- Arquitetura backend com Node.js e TypeScript
-- Sistemas modulares e monorepos
-- Testes automatizados e qualidade de código
-- DevOps básico com Docker e pipelines
-- Design de APIs, autenticação, permissões e segurança aplicada
+<div align="center">
 
----
+| Arquitetura backend | Sistemas modulares | Testes e qualidade | DevOps básico | Segurança aplicada |
+|---|---|---|---|---|
+| Node.js · TypeScript | Monorepos · Packages | Jest · Typecheck | Docker · CI/CD | Auth · RBAC · APIs |
 
-## Contato
-
-- LinkedIn: [linkedin.com/in/edumesz](https://www.linkedin.com/in/edumesz/)
-- GitHub: [github.com/edumes](https://github.com/edumes)
-- E-mail: [dev.eduardosantarosa@gmail.com](mailto:dev.eduardosantarosa@gmail.com)
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edumes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-</p>
+## Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=edumes&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumes&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edumesz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edumesz/)
+[![Email](https://img.shields.io/badge/Email-dev.eduardosantarosa-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.eduardosantarosa@gmail.com)
+
+</div>

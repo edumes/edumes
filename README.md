@@ -1,78 +1,134 @@
-# Olá, Mundo! 👋
+# Eduardo Santarosa
 
-## 🛠️ Tech Stack
-<div align="center">
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" />
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
-  <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
-  <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" />
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-</div>
+**Full Stack Developer | Backend Node.js | TypeScript | React**
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Software+Developer;FullStack+Engineer;Node.js+%2B+TypeScript+Specialist;API+Integration+Engineer;Legacy+Systems+Modernization"/>
-</div>
+Desenvolvedor Full Stack com experiência profissional desde 2022 no desenvolvimento, manutenção e evolução de sistemas web. Atuo principalmente com **Node.js**, **TypeScript**, **React**, **Next.js** e **PHP**, com foco em APIs, integrações, automações, relatórios e sustentação de aplicações em produção.
 
-## 💼 Experiências
+Atualmente trabalho em uma software house, participando de projetos para clientes reais, integração com serviços externos, manutenção de sistemas legados e construção de soluções web orientadas a negócio.
 
-[<img align="left" height="80" width="80" alt="NEC Brasil" src="https://i.imgur.com/E4uqLHm.png"/>](http://necbrasil.com.br/)
+---
 
-### **Full Stack Developer**  
-**[NEC Brasil](http://necbrasil.com.br/)** • Tempo integral  
-📍 Americana, SP • 📅 *Agosto 2022 – Presente*
+## Foco técnico
 
-🚀 Especialista em
+- Desenvolvimento de APIs REST com Node.js, TypeScript, Express, Fastify e NestJS
+- Integrações com APIs externas, ERPs, serviços de assinatura, automação e parceiros
+- Sistemas web com React, Next.js, Vite, TailwindCSS e bibliotecas de UI modernas
+- Autenticação, permissões, geração de relatórios, uploads, filas e processamento assíncrono
+- Manutenção, correção de bugs e evolução de sistemas em produção
+- Automação de processos com Node.js, Python, PDF, Excel e scripts internos
 
-- Node.js
-- TypeScript
-- APIs REST
-- Integrações de sistemas
+---
 
-🛠 Experiência com
+## Stack principal
 
-- Sistemas corporativos
-- Modernização de sistemas legados
-- Sistemas distribuídos
+### Backend
 
-# 🔥 GitHub Streak
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Banco, infraestrutura e ferramentas
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+
+---
+
+## Projeto principal
+
+### Plataforma Full Stack Modular — projeto privado
+
+Projeto autoral em formato de monorepo para acelerar o desenvolvimento de sistemas administrativos e aplicações SaaS. O código-fonte é privado, mas o projeto representa meu principal laboratório técnico de arquitetura full stack.
+
+**Principais recursos:**
+
+- Backend com Node.js, TypeScript, Fastify e TypeORM
+- Frontend com React, Vite, TailwindCSS e componentes reutilizáveis
+- Pacote compartilhado para tipos, contratos, metadados e i18n
+- Autenticação JWT e controle de permissões
+- CRUD genérico orientado por metadados
+- PostgreSQL, Redis, filas com Bull e processamento assíncrono
+- Swagger/OpenAPI para documentação de API
+- WebSocket para eventos em tempo real
+- Upload de arquivos, logs estruturados e geração de relatórios
+- Docker Compose para ambiente local
+- Testes, typecheck, build de pacotes e documentação técnica
+
+**Stack:** Node.js, TypeScript, Fastify, React, Vite, PostgreSQL, Redis, TypeORM, TailwindCSS, Docker, Jest.
+
+---
+
+## Projetos selecionados
+
+### [SalarioContado](https://github.com/edumes/salariocontado)
+
+Aplicação web para cálculo de ganhos em tempo real, com interface responsiva, persistência local e foco em experiência de uso.
+
+**Stack:** Next.js, TypeScript, TailwindCSS, Radix UI.
+
+### [Segmentor](https://github.com/edumes/Segmentor)
+
+Aplicação desktop para segmentação de vídeos, explorando interface gráfica, manipulação de mídia e compatibilidade multiplataforma.
+
+**Stack:** Python, PyQt6, FFmpeg, OpenCV.
+
+### [Sistema Pizzaria](https://github.com/edumes/Sistema-Pizzaria)
+
+Sistema full stack para gerenciamento de pizzaria, com backend, frontend e banco relacional.
+
+**Stack:** Node.js, React, TypeScript, PostgreSQL, Prisma.
+
+---
+
+## Experiência
+
+**Full Stack Developer — NEC Brasil**  
+Americana, SP | Agosto/2022 - Atual
+
+- Desenvolvimento e manutenção de sistemas web para clientes
+- Implementação de funcionalidades em Node.js, TypeScript, React, Next.js, PHP e React Native
+- Integrações com APIs de parceiros e serviços externos
+- Automação de relatórios em PDF e Excel
+- Correção de bugs, sustentação e evolução de sistemas em produção
+- Atuação em sistemas legados e modernização gradual de aplicações
+
+---
+
+## Atualmente estudando e evoluindo em
+
+- Arquitetura backend com Node.js e TypeScript
+- Sistemas modulares e monorepos
+- Testes automatizados e qualidade de código
+- DevOps básico com Docker e pipelines
+- Design de APIs, autenticação, permissões e segurança aplicada
+
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/edumesz](https://www.linkedin.com/in/edumesz/)
+- GitHub: [github.com/edumes](https://github.com/edumes)
+- E-mail: [dev.eduardosantarosa@gmail.com](mailto:dev.eduardosantarosa@gmail.com)
+
+---
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edumes&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edumes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
 </p>
-
----
-
-# 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edumes&theme=tokyo-night"/>
-</p>
-
----
-
-# 👁 Visitors
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=edumes&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-<div align="center">
-🚀 "Any language, any problem — I find a way."
-</div>
-
----
-
-## 📬 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/edumesz/)  
-- [Instagram](https://instagram.com/edumesz)  
-- dev.eduardosantarosa@gmail.com

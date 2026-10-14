@@ -2,37 +2,57 @@
 
 # Eduardo Santarosa
 
-### Full Stack Developer · Backend Node.js · TypeScript · React
+### Full Stack Developer · Node.js · TypeScript · React · Backend-Focused
 
-Desenvolvedor Full Stack com experiência profissional desde 2022 em sistemas web, APIs, integrações, automações e sustentação de aplicações em produção.
+Full Stack Developer with professional experience since 2022, building and maintaining web applications, APIs, integrations, automations, and production systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edumesz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edumesz/)
 [![GitHub](https://img.shields.io/badge/GitHub-edumes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edumes)
-[![Email](https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.eduardosantarosa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.eduardosantarosa@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou desenvolvedor Full Stack com foco em **Node.js**, **TypeScript**, **React**, **Next.js** e **PHP**. Trabalho em software house, atuando em projetos para clientes reais, integrações com serviços externos, manutenção de sistemas legados e evolução de aplicações em produção.
+I'm a **Full Stack Developer with a strong backend focus**, working primarily with **Node.js, TypeScript, React, Next.js, and PHP**.
 
-Tenho interesse especial em **arquitetura backend**, **APIs REST**, **sistemas modulares**, **automação de processos** e construção de soluções web que resolvem problemas operacionais de negócio.
+Since 2022, I have been working professionally on software used by real clients, contributing to the development, maintenance, and evolution of web applications in production.
 
-```ts
+My experience includes:
+
+- Designing and implementing REST APIs
+- Building backend services and business logic
+- Developing responsive frontend applications
+- Integrating third-party APIs and external services
+- Automating operational workflows and report generation
+- Maintaining and modernizing legacy systems
+- Supporting applications already running in production
+
+I am particularly interested in **backend architecture, modular systems, API design, SaaS products, process automation, and maintainable software engineering**.
+
+```ts id="c94yik"
 const eduardo = {
   role: "Full Stack Developer",
-  focus: ["Backend Node.js", "TypeScript", "React", "APIs", "Integrações"],
+  specialization: "Backend-focused Full Stack Development",
   experienceSince: 2022,
-  currentlyWorkingWith: ["Node.js", "TypeScript", "React", "Next.js", "PHP"],
-  interests: ["Arquitetura", "SaaS", "Monorepos", "Automação", "Sistemas em produção"],
+  coreStack: ["Node.js", "TypeScript", "React", "Next.js", "PHP"],
+  backend: ["Fastify", "Express", "NestJS", "REST APIs"],
+  databases: ["PostgreSQL", "Redis"],
+  interests: [
+    "Backend Architecture",
+    "SaaS",
+    "Monorepos",
+    "Automation",
+    "Production Systems",
+  ],
 };
 ```
 
 ---
 
-## Stack principal
+## Core Tech Stack
 
 <div align="center">
 
@@ -56,7 +76,7 @@ const eduardo = {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Banco, ORM, infra e ferramentas
+### Databases, Infrastructure & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -69,45 +89,45 @@ const eduardo = {
 
 ---
 
-## O que eu costumo construir
+## What I Build
 
 <table>
   <tr>
-    <td><strong>APIs e backends</strong></td>
-    <td>APIs REST, autenticação, permissões, regras de negócio, integrações e documentação Swagger/OpenAPI.</td>
+    <td><strong>Backend Systems</strong></td>
+    <td>REST APIs, authentication, authorization, business rules, service integrations, and API documentation.</td>
   </tr>
   <tr>
-    <td><strong>Sistemas web</strong></td>
-    <td>Aplicações administrativas, dashboards, CRUDs, formulários, telas responsivas e fluxos internos.</td>
+    <td><strong>Web Applications</strong></td>
+    <td>Administrative platforms, dashboards, CRUD interfaces, forms, responsive UIs, and internal business workflows.</td>
   </tr>
   <tr>
-    <td><strong>Integrações</strong></td>
-    <td>Conexão com APIs externas, ERPs, serviços de assinatura, automações e parceiros.</td>
+    <td><strong>Integrations</strong></td>
+    <td>Connections with third-party APIs, ERPs, subscription services, external platforms, and partner systems.</td>
   </tr>
   <tr>
-    <td><strong>Automações</strong></td>
-    <td>Geração de relatórios em PDF/Excel, scripts internos, processamento assíncrono e rotinas operacionais.</td>
+    <td><strong>Automation</strong></td>
+    <td>PDF and Excel report generation, internal scripts, asynchronous processing, and operational workflow automation.</td>
   </tr>
   <tr>
-    <td><strong>Sustentação</strong></td>
-    <td>Correção de bugs, manutenção de sistemas em produção e evolução gradual de aplicações legadas.</td>
+    <td><strong>Production Maintenance</strong></td>
+    <td>Bug fixing, production support, legacy system maintenance, and incremental application modernization.</td>
   </tr>
 </table>
 
 ---
 
-## Projeto principal
+## Featured Architecture Project
 
 <table>
   <tr>
     <td width="35%">
-      <h3>Plataforma Full Stack Modular</h3>
-      <p><strong>Projeto privado</strong></p>
-      <p>Monorepo autoral para acelerar o desenvolvimento de sistemas administrativos e aplicações SaaS.</p>
+      <h3>Modular Full Stack Platform</h3>
+      <p><strong>Private Project</strong></p>
+      <p>A reusable full stack monorepo created to accelerate the development of administrative systems and SaaS applications.</p>
     </td>
     <td width="65%">
       <p>
-        Projeto usado como laboratório técnico de arquitetura full stack, com backend reutilizável, frontend SPA, pacote compartilhado, autenticação, permissões, CRUD genérico, filas, WebSocket, uploads, logs e documentação técnica.
+        A technical architecture project designed as a reusable foundation for full stack applications. It combines a backend, SPA frontend, shared packages, authentication, authorization, generic CRUD infrastructure, queues, real-time communication, file handling, logging, and API documentation.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -122,31 +142,37 @@ const eduardo = {
   </tr>
 </table>
 
-### Principais recursos
+### Architecture & Features
 
-- Monorepo com backend, frontend e pacote compartilhado
-- Backend com Node.js, TypeScript, Fastify e TypeORM
-- Frontend com React, Vite, TailwindCSS e componentes reutilizáveis
-- Autenticação JWT e controle de permissões
-- CRUD genérico orientado por metadados
-- PostgreSQL, Redis, Bull e processamento assíncrono
-- Swagger/OpenAPI para documentação da API
-- WebSocket para eventos em tempo real
-- Upload de arquivos, logs estruturados e geração de relatórios
-- Docker Compose para ambiente local
-- Testes, typecheck, build de pacotes e documentação técnica
+- Monorepo architecture with backend, frontend, and shared packages
+- Backend built with Node.js, TypeScript, Fastify, and TypeORM
+- React SPA built with Vite, TailwindCSS, and reusable components
+- JWT-based authentication
+- Role and permission management
+- Metadata-driven generic CRUD architecture
+- PostgreSQL persistence
+- Redis and Bull for asynchronous processing
+- Swagger/OpenAPI documentation
+- WebSocket-based real-time events
+- File upload infrastructure
+- Structured application logging
+- PDF and report generation
+- Docker Compose development environment
+- Automated tests, type checking, package builds, and technical documentation
 
-> O código-fonte desse projeto é privado. A ideia é preservar propriedade intelectual enquanto uso o projeto como referência técnica em entrevistas e portfólio.
+> The source code is private to protect intellectual property. I use this project as an architectural reference and technical case study for interviews and portfolio discussions.
 
 ---
 
-## Projetos selecionados
+## Selected Projects
 
 <table>
   <tr>
     <td width="33%">
       <h3><a href="https://github.com/edumes/salariocontado">SalarioContado</a></h3>
-      <p>Aplicação web para cálculo de ganhos em tempo real, com persistência local e interface responsiva.</p>
+      <p>
+        Web application that calculates earnings in real time, with local data persistence and a responsive user interface.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -155,7 +181,9 @@ const eduardo = {
     </td>
     <td width="33%">
       <h3><a href="https://github.com/edumes/Segmentor">Segmentor</a></h3>
-      <p>Aplicação desktop para segmentação de vídeos, manipulação de mídia e compatibilidade multiplataforma.</p>
+      <p>
+        Cross-platform desktop application for video segmentation and media processing using Python, PyQt6, and FFmpeg.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square" />
@@ -164,7 +192,9 @@ const eduardo = {
     </td>
     <td width="33%">
       <h3><a href="https://github.com/edumes/Sistema-Pizzaria">Sistema Pizzaria</a></h3>
-      <p>Sistema full stack para gerenciamento de pizzaria, com backend, frontend e banco relacional.</p>
+      <p>
+        Full stack management system for pizzeria operations, with a Node.js backend, React frontend, and PostgreSQL database.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -176,34 +206,52 @@ const eduardo = {
 
 ---
 
-## Experiência profissional
+## Professional Experience
 
 ### Full Stack Developer · NEC Brasil
 
-**Americana/SP · Agosto/2022 - Atual**
+**Americana, São Paulo, Brazil · August 2022 – Present**
 
-- Desenvolvimento e manutenção de sistemas web para clientes
-- Implementação de funcionalidades em Node.js, TypeScript, React, Next.js, PHP e React Native
-- Integrações com APIs de parceiros e serviços externos
-- Automação de relatórios em PDF e Excel
-- Correção de bugs, sustentação e evolução de sistemas em produção
-- Atuação em sistemas legados e modernização gradual de aplicações
+Working on the development, maintenance, integration, and modernization of web applications used by clients.
+
+### Main Responsibilities
+
+- Develop and maintain production web applications
+- Implement backend and frontend features using Node.js, TypeScript, React, Next.js, PHP, and React Native
+- Integrate applications with partner APIs and external services
+- Automate PDF and Excel report generation
+- Troubleshoot and fix production issues
+- Maintain and evolve existing systems
+- Work with legacy applications and support their gradual modernization
+- Contribute across both backend and frontend layers depending on project requirements
 
 ---
 
-## Em evolução contínua
+## Engineering Interests
 
 <div align="center">
 
-| Arquitetura backend | Sistemas modulares | Testes e qualidade | DevOps básico | Segurança aplicada |
+| Backend Architecture | Modular Systems | Testing & Quality | DevOps | Application Security |
 |---|---|---|---|---|
-| Node.js · TypeScript | Monorepos · Packages | Jest · Typecheck | Docker · CI/CD | Auth · RBAC · APIs |
+| Node.js · TypeScript | Monorepos · Packages | Jest · Type Checking | Docker · CI/CD | Auth · RBAC · API Security |
 
 </div>
 
 ---
 
-## Estatísticas
+## Currently Improving
+
+- Backend architecture and software design
+- Modular application development
+- Testing strategies and code quality
+- Docker and CI/CD workflows
+- Authentication and authorization patterns
+- Scalable API design
+- Maintainability of production systems
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -216,7 +264,9 @@ const eduardo = {
 
 <div align="center">
 
-### Vamos conversar?
+### Open to Connecting
+
+Interested in **Full Stack, Backend, Node.js, and TypeScript opportunities**, as well as conversations about software architecture and web development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edumesz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edumesz/)
 [![Email](https://img.shields.io/badge/Email-dev.eduardosantarosa-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.eduardosantarosa@gmail.com)
